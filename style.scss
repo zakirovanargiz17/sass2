@@ -136,7 +136,7 @@
     }
     &__black{
       img{
-        margin-top: -40%;
+        margin-top: -50%;
         margin-left: -100%;
       }
       &--img2{
@@ -173,7 +173,16 @@
         color: #FFFFFF;
       }
     }
-   
+   &__pay{
+     display: flex;
+     align-items: center;
+     justify-content:space-between;
+     flex-wrap: wrap;
+     
+   }
+
+
+    }
   }
 }
 

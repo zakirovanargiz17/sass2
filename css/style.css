@@ -129,7 +129,7 @@ body {
   margin-top: -40px;
 }
 #section .section--title__black img {
-  margin-top: -40%;
+  margin-top: -50%;
   margin-left: -100%;
 }
 #section .section--title__black--img2 {
@@ -163,6 +163,12 @@ body {
   font-size: 36px;
   line-height: 44px;
   color: #FFFFFF;
+}
+#section .section--title__pay {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 /*# sourceMappingURL=style.css.map */
